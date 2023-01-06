@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--kbiq2ozxrqzzdswopocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3c30fe18-38ef-42ea-b9c9-a24fe128a663/resourceGroups/KBI/providers/Microsoft.Synapse/workspaces/kbiq2ozxrqzzdswopocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"kbiq2ozxrqzzdswopocws1.5d07375c-fc24-443d-9b6c-5eb5c3647a9f.sql.azuresynapse.net"
+		]
+	}
+}
